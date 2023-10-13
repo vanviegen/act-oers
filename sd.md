@@ -2,4 +2,4 @@
 
 ## Opleidingsbeschrijving
 
-Deze OER heeft betrekking...
+Deze OER gaat over
