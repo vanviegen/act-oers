@@ -2,4 +2,4 @@
 
 ## Opleidingsbeschrijving
 
-Deze OER gaat niet meer door
+Deze OER is afgesloten
