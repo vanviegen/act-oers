@@ -2,4 +2,4 @@
 
 ## Opleidingsbeschrijving
 
-Deze OER gaat over
+Deze OER gaat niet meer door
